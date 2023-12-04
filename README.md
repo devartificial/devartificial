@@ -3,7 +3,7 @@
 
 ## Conteúdos
 - Tutoriais.
-- Codigos Open Source para aprendizado e desenvolvimento de sistemas de AI/ML.
+- Codigos Open Source para aprendizado e desenvolvimento de sistemas AI/ML.
 - Documentações e recursos.
 
 ## Sobre mim
