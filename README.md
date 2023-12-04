@@ -1,4 +1,4 @@
-<h1 align="center">Bruno Henrique Catani A.K.A. **DevArtificial**</h1>
+<h1 align="center">Bruno Henrique Catani A.K.A. DevArtificial</h1>
 <h3 align="center">👨‍💻 Desenvolvedor de Inteligência Artificial | 🎓 Graduando em Tecnologia da Informação | 🤖 EdgeAI/Jetson Ecosystem Engineer </h3>
 
 ## About Me
